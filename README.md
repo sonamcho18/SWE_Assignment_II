@@ -7,10 +7,15 @@ Programming a farming drone involves blending cutting-edge technology with tradi
 Machine learning and AI Integration
 Data collection and analysis
 
-# Table of Content
-
+# Table of Contents
+- [Code Snippets and Explanation](#code-snippets-and-explanation)
+- [Challenges and Learnings](#challenges-and-learnings)
+- [References](#references)
 
 # Code-Snippets-and-Explanation
+Write and explain your code along with recordings.
+
+
 
 # Step 1
 do_a_flip()
